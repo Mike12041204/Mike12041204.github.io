@@ -67,20 +67,21 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
+  telephone: +12017496715
   email: "mgreenbaum1204w@gmail.com"
-#  facebook: guimuguo
+  linkedin: michael-b-greenbaum
   github: Mike12041204
+  leetcode: Mike1204
+#  facebook: yourname
 #  twitter: yourname
 #  reddit: yourname
-#  linkedin: yourname
 #  xing: yourname
 #  stackoverflow: "yourname"
 #  snapchat: yourname
 #  instagram: yourname
 #  youtube: user/yourname
 #  spotify: yourname
-#  telephone: +14159998888
 #  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
