@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guimu Guo
-subtitle: Assistant Professor in Computer Science, Rowan University, NJ
+title: Michael B. Greenbaum
+subtitle: Student Researcher of Computer Science, Rowan University, NJ
 use-site-title: true
 ---
