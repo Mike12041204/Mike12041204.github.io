@@ -1,6 +1,12 @@
 ---
 layout: page
 title: Michael B. Greenbaum
-subtitle: Student Researcher of Computer Science, Rowan University, NJ
+subtitle: Computer Science Student Researcher, Rowan University, NJ
 use-site-title: true
 ---
+
+# Test
+
+test
+
+###Test
