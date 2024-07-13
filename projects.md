@@ -20,7 +20,7 @@ title: Projects
        <p class="media-heading">
           <strong>Roadway Design Safety Evaluation Using 8DOF Driving Simulator, Tongji University</strong><br />
           Mar, 2016 - May,2016          (co-advised by Prof. Andrew P. Tarko from Purdue University)<br />
-          Analyzed road alignment data (slopes and curvature) and figure out models reflecting the relations between road alignment and road safety.<br />
+          Analyzed road alignment data (slopes and curvature) and figure out models reflecting the relations between road alignment and road safety. <br />
           My Responsibility: data preparation for feature extraction, and model training and comparison. (C++)<br />
           </p>
     </div>
