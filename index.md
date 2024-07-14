@@ -5,8 +5,3 @@ subtitle: Computer Science Student Researcher, Rowan University, NJ
 use-site-title: true
 ---
 
-# Test
-
-test
-
-##Test
