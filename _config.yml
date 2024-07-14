@@ -20,6 +20,7 @@ description: Student Researcher
 
 # List of links in the navigation bar
 navbar-links:
+  Example: "example"
   Education: "education"
   Work: "work"
   Research: "research"
