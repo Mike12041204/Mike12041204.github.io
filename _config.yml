@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Michael B. Greenbaum
+title: Tiger Sharks
 
 # Short description of your site
-description: Student Researcher
+description: Team 4
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,15 +20,15 @@ description: Student Researcher
 
 # List of links in the navigation bar
 navbar-links:
-  Education: "education"
-  Work: "work"
-  Research: "research"
-  Resume: "combinepdf.pdf"
+  # Education: "education"
+  # Work: "work"
+  # Research: "research"
+  # Resume: "combinepdf.pdf"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/tiger.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
