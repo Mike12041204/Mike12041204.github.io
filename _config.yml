@@ -21,7 +21,7 @@ description: Software Engineer
 # List of links in the navigation bar
 navbar-links:
   Education: "education"
-  Work: "work"
+  Experience: "experience"
   Research: "research"
   Resume: "pdf/resume.pdf"
   Transcript: "pdf/transcript.pdf"
